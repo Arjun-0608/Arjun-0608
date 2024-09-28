@@ -6,7 +6,7 @@
 
 --And i'm recent graduate in B.Tach stream of ECE (78.37%)
 
---Andi have good knoledge and some experience with Backe-End(Python , Django) and Front-End(HTML , CSS , JS)
+--Andi have good knowledge and some experience with Backe-End(Python , Django) and Front-End(HTML , CSS , JS)
 
 -- And 🙂 Tired of Applying jobs in Platforms  , and looking for anyone can take me to put my potential on real time applications and projects (Simply a job role🙃) 
 
